@@ -1,2 +1,7 @@
 # asset-cache-v2
-Internal data processing pipeline
+
+Machine learning model checkpoint storage.
+
+## Overview
+
+This repository stores versioned model weights and training artifacts for the ML pipeline.
